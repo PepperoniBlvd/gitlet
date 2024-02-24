@@ -8,6 +8,8 @@ import java.io.File;
 import java.util.Map;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.util.List;
+import java.util.ArrayList;
 
 /** Represents a gitlet commit object.
  *  TODO: It's a good idea to give a description here of what else this Class
